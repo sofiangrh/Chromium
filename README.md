@@ -2,9 +2,9 @@
 Chromium is a complete XFWM theme designed to perfectly fit with Chromium-browser's GUI. It now also contains a GTK+ theme partially inspired from Dust Sand.
 
 # Screenshot
-<img scr="http://gnome-look.org/CONTENT/content-pre1/108046-1.jpg" height="480" width="640">
+<img scr="http://s13.postimg.org/ps9is3lbr/108046_1.jpg" height="480" width="640">
 
-<img scr="http://gnome-look.org/CONTENT/content-pre2/108046-2.png" height="480" width="640">
+<img scr="http://s2.postimg.org/9o6qgpuop/108046_2.png" height="480" width="640">
 
 # Changelog:
 - 2009-07-06 : First version of the GTK theme
